@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARYAN%20BUDUKH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
@@ -306,16 +306,16 @@ Serverless, event-driven, cost-optimized systems.
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbudukh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKULLFIRE07&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanbudukh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFB3&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbudukh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKULLFIRE07&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFB3&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKULLFIRE07&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanbudukh&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKULLFIRE07&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanbudukh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SKULLFIRE07&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -516,9 +516,9 @@ Cloud infrastructure<br/>& backend design
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### ⭐ From [Aryan Budukh](https://github.com/aryanbudukh)
+### ⭐ From [Aryan Budukh](https://github.com/SKULLFIRE07)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanbudukh&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=SKULLFIRE07&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
