@@ -1,16 +1,14 @@
 <!-- Header with Gradient Background -->
 <div align="center">
 
-<!-- Large Name Display -->
-<h1 style="font-size: 80px; font-weight: bold; margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=ARYAN+BUDUKH" alt="ARYAN BUDUKH" />
+<!-- Large Static Name Display -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=120&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&fontAlignY=55" alt="ARYAN BUDUKH" width="100%"/>
 </h1>
 
-<!-- Cyberpunk Style Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&fontSize=0&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&fontSize=0&animation=fadeIn"/>
-</picture>
+<h3 align="center" style="color: #00F7FF; margin-top: -10px;">
+  Full Stack AI Engineer | Systems Architect | 360Labs.ai
+</h3>
 
 <!-- Dynamic Typing Animation -->
 <br/>
