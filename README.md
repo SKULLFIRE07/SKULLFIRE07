@@ -1,331 +1,248 @@
+<!-- Header with Gradient Background -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ARYAN%20BUDUKH&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Cyberpunk Style Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=25"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=25"/>
+</picture>
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+AI+Engineer;🧠+AI+Systems+Architect;🤖+Building+Autonomous+Workflows;🚀+Scaling+with+AI+at+360Labs.ai;💡+Turning+Ideas+into+Intelligence" alt="Typing SVG" />
+<!-- Dynamic Typing Animation -->
+<br/>
 
-<!-- Futuristic Badges -->
-<p>
-  <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20AI%20Engineer-00D9FF?style=for-the-badge&labelColor=000000&logo=artificial-intelligence&logoColor=00D9FF" />
-  <img src="https://img.shields.io/badge/COMPANY-360Labs.ai-00FFB3?style=for-the-badge&labelColor=000000&logo=google-cloud&logoColor=00FFB3" />
-  <img src="https://img.shields.io/badge/STATUS-Building%20the%20Future-FF00FF?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=FF00FF" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=Building+Autonomous+AI+Systems+%E2%9A%A1;Scaling+Businesses+with+Intelligence+%F0%9F%9A%80;Full+Stack+%2B+AI+%3D+Future+%F0%9F%A7%A0;Code+%E2%86%92+Automate+%E2%86%92+Scale+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- Social Links with Glow Effect -->
-<p>
+<!-- Professional Badges -->
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/360Labs.ai-Full%20Stack%20AI%20Engineer-00FFB3?style=for-the-badge&logo=artificiaintelligence&logoColor=white&labelColor=1a1a1a&color=00FFB3"/>
+  <img src="https://img.shields.io/badge/India%20🇮🇳-Based-FF6B9D?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
+</div>
+
+<br/>
+
+<!-- Social Connect Buttons -->
+<p align="center">
   <a href="https://www.linkedin.com/in/aryanbudukh2710/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:aryansbudukh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/aryan_2710_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
-<!-- Mission Statement with Gradient Background -->
+<br/>
+
+<!-- Mission Statement -->
 <div align="center">
 
-## 🌌 THE MISSION
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💭 Philosophy
-
-```typescript
-const mission = {
-  goal: "Build Intelligent Systems",
-  approach: "Automate Everything",
-  focus: "Scale with AI",
-  impact: "Transform Businesses"
-};
-
-// I don't just write code.
-// I architect the future.
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ At 360Labs.ai
-
-- 🤖 **Deploy** LLM-powered agents
-- 🔄 **Replace** manual workflows  
-- 📈 **Scale** businesses intelligently
-- 🏗️ **Build** production AI systems
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 Every System I Build Is
+## 💫 THE VISION
 
 <table>
 <tr>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/flash-on.png" width="60"/><br/>
-  <b>⚡ Automated</b><br/>
-  <sub>Zero manual intervention</sub>
+<td width="50%" valign="top">
+
+```javascript
+const aryan = {
+  role: "Full Stack AI Engineer",
+  company: "360Labs.ai",
+  mission: "Transform Ideas → Intelligence",
+  
+  mantra: "BUILD SYSTEMS, NOT FEATURES",
+  
+  approach: [
+    "Code with Purpose",
+    "Automate Relentlessly", 
+    "Scale Intelligently",
+    "Deploy Fearlessly"
+  ]
+};
+
+console.log(aryan.mission);
+// Turning concepts into autonomous AI systems
+```
+
 </td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/lock.png" width="60"/><br/>
-  <b>🔒 Secure</b><br/>
-  <sub>Enterprise-grade protection</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br/>
-  <b>📈 Scalable</b><br/>
-  <sub>Built for growth</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/><br/>
-  <b>🧠 AI-Native</b><br/>
-  <sub>Intelligence by default</sub>
+<td width="50%" valign="top">
+
+<br/>
+
+### 🎯 Core Philosophy
+
+**Every system I architect is:**
+
+⚡ **Automated** - Zero human intervention  
+🔒 **Secure** - Enterprise-grade by design  
+📈 **Scalable** - Built to handle growth  
+🧠 **AI-Native** - Intelligence at the core  
+
+<br/>
+
+> *"The best code writes itself. The best systems think for themselves."*
+
 </td>
 </tr>
 </table>
 
 </div>
 
----
-
-<!-- Digital DNA Section -->
-<div align="center">
-
-## 🧬 DIGITAL DNA
-
-</div>
-
-```python
-class AryanBudukh:
-    """
-    Full Stack AI Engineer | Systems Architect | Automation Strategist
-    """
-    
-    def __init__(self):
-        self.role = "Full Stack AI Engineer"
-        self.company = "360Labs.ai"
-        self.location = "India 🇮🇳"
-        self.mission = "Build autonomous AI systems for real-world scale"
-        
-        self.core_stack = {
-            "ai_ml": ["LLMs", "AI Agents", "RAG", "Prompt Engineering"],
-            "frontend": ["React.js", "JavaScript", "HTML5", "CSS3"],
-            "backend": ["Firebase", "Node.js", "Cloud Functions", "REST APIs"],
-            "cloud": ["AWS", "GCP", "EC2", "Serverless Architecture"],
-            "automation": ["n8n", "Webhooks", "API Integrations"],
-            "payments": ["Razorpay", "Stripe"]
-        }
-        
-        self.expertise = [
-            "🤖 AI Agent Development",
-            "🏗️ System Architecture", 
-            "⚡ Automation Pipelines",
-            "🔥 Full Stack Development",
-            "☁️ Cloud Infrastructure"
-        ]
-        
-    def philosophy(self):
-        return "Code → Automate → Optimize → Scale → Innovate"
-    
-    def current_focus(self):
-        return [
-            "Building multi-agent AI ecosystems",
-            "Designing AI-first SaaS infrastructure", 
-            "Advanced system design & backend scaling",
-            "Production-ready AI deployments"
-        ]
-
-# Initialize the system
-engineer = AryanBudukh()
-print(engineer.philosophy())
-```
-
----
+<br/>
 
 <!-- What I Build Section -->
 <div align="center">
 
 ## 🚀 WHAT I BUILD
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-### 🤖 AI Agent Systems
+### 🤖 AI Agent Ecosystems
 
-Autonomous AI workflows that **think**, **process**, **execute**, and **deliver outcomes**.
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150"/>
 
-**Features:**
-- 🧠 LLM-powered decision making
-- 🔄 Business process automation
-- 📊 Real-time data processing
-- ✅ Production-ready deployment
+**Autonomous systems that:**
+- 🧠 Make decisions with LLMs
+- 🔄 Execute complex workflows
+- 📊 Process data in real-time
+- ✅ Deploy to production
 
-**Stack:** `OpenAI` `Claude` `Gemini` `LangChain`
+`OpenAI` `Claude` `Gemini` `RAG`
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-### 🔥 Full Stack AI Platforms
+### 🔥 Full Stack Platforms
 
-End-to-end intelligent applications from **concept to deployment**.
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150"/>
 
-**Architecture:**
-- ⚛️ React frontend systems
-- 🔥 Firebase backend infrastructure
-- 🔐 Role-based authentication
-- 📈 Scalable cloud architecture
+**End-to-end applications:**
+- ⚛️ React frontends
+- 🔥 Firebase backends
+- 🔐 Secure authentication
+- 📈 Cloud infrastructure
 
-**Stack:** `React` `Firebase` `Node.js` `Cloud Functions`
+`React` `Node.js` `Firebase` `AWS`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-### 📈 AI Content Automation
+### 📈 Automation Engines
 
-Fully autonomous content ecosystems.
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150"/>
 
-**Capabilities:**
-- 🎯 Viral content detection
-- 💡 AI insight generation
-- 📅 Auto-posting pipelines
-- ⏰ Scheduled automation
+**Intelligent workflows:**
+- 🎯 Content generation
+- 💡 Insight extraction  
+- 📅 Scheduled pipelines
+- ⏰ Event-driven systems
 
-**Stack:** `AI APIs` `n8n` `Webhooks` `Cron Jobs`
+`n8n` `Webhooks` `API Integration`
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
-### 🏗️ Cloud Infrastructure
+### ☁️ Cloud Infrastructure
 
-Serverless, event-driven, cost-optimized systems.
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150"/>
 
-**Services:**
-- ☁️ AWS / GCP / Firebase
-- 🔌 API & webhook integrations
-- 💳 Payment system integration
-- 📦 Microservices architecture
+**Serverless systems:**
+- 🌐 Multi-cloud architecture
+- 🔌 Microservices design
+- 💳 Payment integration
+- 📦 Container orchestration
 
-**Stack:** `AWS` `GCP` `Serverless` `Docker`
+`AWS` `GCP` `Docker` `Serverless`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- Tech Arsenal -->
+<!-- Tech Stack Section -->
 <div align="center">
 
-## 🛠️ TECH ARSENAL
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+## 🛠️ TECHNOLOGY STACK
 
 </div>
 
-### 🧠 AI & Machine Learning
+### 🧠 Artificial Intelligence & Machine Learning
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Full Stack Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,typescript&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### 🔥 Backend & Cloud
+### ☁️ Backend & Cloud Technologies
 
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,aws,gcp,mongodb,postgresql,docker&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### 🔗 Automation & Integration
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-2C2D72?style=for-the-badge&logo=webhook&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🐍 Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp&theme=dark" />
 </p>
 
----
+<br/>
 
-<!-- GitHub Stats Section -->
+<!-- Contribution Graph -->
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKULLFIRE07&custom_title=Aryan's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&theme=react-dark" width="100%"/>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKULLFIRE07&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FFB3&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKULLFIRE07&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKULLFIRE07&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SKULLFIRE07&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKULLFIRE07&custom_title=Building%20The%20Future%2C%20One%20Commit%20at%20a%20Time&bg_color=0d1117&color=00d9ff&line=00ffa3&point=ffffff&area=true&hide_border=false&border_radius=15&height=400&area_color=00d9ff" width="95%"/>
 
 </div>
 
----
+<br/>
 
-<!-- Current Focus Section -->
+<!-- Current Focus -->
 <div align="center">
 
 ## 🎯 CURRENT FOCUS
@@ -334,197 +251,249 @@ Serverless, event-driven, cost-optimized systems.
 
 ```mermaid
 mindmap
-  root((Aryan Budukh))
-    AI Systems
-      Multi-Agent Ecosystems
+  root((🚀 Aryan))
+    🤖 AI Systems
+      Multi-Agent Workflows
       LLM Orchestration
-      RAG Applications
+      RAG Pipelines
       Prompt Engineering
-    Full Stack
-      React Applications
+    🔥 Full Stack
+      React Apps
       Firebase Backend
       Cloud Functions
-      API Development
-    Automation
-      Workflow Automation
+      Real-time Systems
+    ⚡ Automation
       Content Pipelines
       Business Integration
-      Event-Driven Systems
-    Infrastructure
-      Serverless Architecture
-      Cloud Deployment
-      System Scaling
-      Security Implementation
+      Workflow Optimization
+      Event-Driven Architecture
+    ☁️ Infrastructure
+      Serverless Design
+      Container Orchestration
+      CI/CD Pipelines
+      Cloud Security
 ```
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png"/>
-<br><b>AI-First SaaS</b>
-<br><sub>Building intelligent products</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/000000/system-task.png"/>
-<br><b>System Design</b>
-<br><sub>Scalable architectures</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/000000/automation.png"/>
-<br><b>Automation</b>
-<br><sub>Zero-touch workflows</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/clouds/100/000000/deployment.png"/>
-<br><b>Production AI</b>
-<br><sub>Enterprise deployments</sub>
-</td>
-</tr>
-</table>
+<br/>
 
----
-
-<!-- Professional Identity -->
+<!-- Expertise Highlight -->
 <div align="center">
 
-## 💼 PROFESSIONAL IDENTITY
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="60%">
-
-### 🎯 Current Role
-
-**Full Stack AI Engineer** at **360Labs.ai**
-
-Specializing in:
-
-- ✅ End-to-end AI system development
-- ✅ Production-ready deployments  
-- ✅ Business process automation
-- ✅ Scalable backend infrastructure
-- ✅ AI-integrated applications
-- ✅ Cloud architecture & DevOps
-
-</td>
-<td width="40%">
-
-### 📚 Continuous Learning
-
-- 🧠 Advanced AI/ML techniques
-- 🏗️ System design patterns
-- ☁️ Cloud-native architecture
-- 🔐 Security best practices
-- 📊 Data engineering
-- 🚀 Performance optimization
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Collaboration Section -->
-<div align="center">
-
-## 🤝 LET'S COLLABORATE
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-
-</div>
-
-### 💡 I'm Available For
+## 💡 EXPERTISE AREAS
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-### 🚀 AI Startups
-Building intelligent products<br/>from ground up
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/clouds/100/artificial-intelligence.png"/>
+<br/><br/>
+<b>🤖 AI Engineering</b>
+<br/><br/>
+<sub>Building intelligent systems<br/>that think & execute</sub>
+<br/><br/>
 </td>
-<td width="33%" align="center">
-
-### 💼 SaaS Products
-Full-stack development<br/>with AI integration
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/clouds/100/system-task.png"/>
+<br/><br/>
+<b>🏗️ System Design</b>
+<br/><br/>
+<sub>Architecting scalable<br/>production infrastructure</sub>
+<br/><br/>
 </td>
-<td width="33%" align="center">
-
-### ⚡ Automation Systems
-End-to-end workflow<br/>automation
-
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/clouds/100/automation.png"/>
+<br/><br/>
+<b>⚡ Automation</b>
+<br/><br/>
+<sub>Zero-touch workflows<br/>that run themselves</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://img.icons8.com/clouds/100/cloud.png"/>
+<br/><br/>
+<b>☁️ Cloud Native</b>
+<br/><br/>
+<sub>Serverless, scalable<br/>cloud deployments</sub>
+<br/><br/>
 </td>
 </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Professional Experience -->
+<div align="center">
+
+## 💼 PROFESSIONAL JOURNEY
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="60%" valign="top">
 
-### 🌐 Web Platforms
-Scalable, production-ready<br/>applications
+### 🎯 360Labs.ai - Full Stack AI Engineer
+
+**Building the future of intelligent automation:**
+
+✅ Design & deploy multi-agent AI systems  
+✅ Architect full-stack web applications  
+✅ Implement business process automation  
+✅ Build scalable cloud infrastructure  
+✅ Integrate AI into production systems  
+✅ Optimize performance & security  
+
+**Impact:**
+- 🚀 Reduced manual workflows by 80%
+- 💡 Deployed 15+ AI-powered features
+- 📈 Scaled systems to handle 10x traffic
+- 🔒 Maintained 99.9% uptime
 
 </td>
-<td width="33%" align="center">
+<td width="40%" valign="top">
 
-### 🤖 AI Content Engines
-Autonomous content<br/>generation systems
+### 🌱 Continuous Growth
 
-</td>
-<td width="33%" align="center">
+**Always Learning:**
 
-### 🏗️ System Architecture
-Cloud infrastructure<br/>& backend design
+📚 Advanced AI/ML techniques  
+🏗️ Enterprise system design  
+☁️ Cloud architecture patterns  
+🔐 Security best practices  
+📊 Data engineering pipelines  
+🚀 DevOps & automation  
+
+**Focused On:**
+
+🎯 Multi-agent orchestration  
+🎯 AI-first SaaS products  
+🎯 Real-time systems  
+🎯 Serverless architecture  
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<!-- Collaboration CTA -->
+<div align="center">
+
+## 🤝 LET'S BUILD TOGETHER
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500"/>
+
+<br/><br/>
+
+### 💡 Open to Collaborate On
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<h3>🚀 AI Startups</h3>
+Intelligent products<br/>from concept to launch
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h3>💼 SaaS Platforms</h3>
+Full-stack systems<br/>with AI integration
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h3>⚡ Automation</h3>
+End-to-end workflow<br/>optimization
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<br/>
+<h3>🌐 Web Apps</h3>
+Scalable, modern<br/>applications
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h3>🤖 AI Agents</h3>
+Autonomous systems<br/>& orchestration
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<h3>☁️ Infrastructure</h3>
+Cloud architecture<br/>& deployment
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 <!-- Contact Section -->
 <div align="center">
 
-## 📬 GET IN TOUCH
+## 📬 CONNECT WITH ME
 
-<p>
+<br/>
+
 <a href="mailto:aryansbudukh@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-aryansbudukh@gmail.com-EA4335?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📧_Email-aryansbudukh@gmail.com-D14836?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
 </a>
-</p>
 
-<p>
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/aryanbudukh2710/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-Aryan_Budukh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/aryan_2710_">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram-@aryan__2710__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a1a"/>
 </a>
-</p>
+&nbsp;&nbsp;
+<a href="https://github.com/SKULLFIRE07">
+  <img src="https://img.shields.io/badge/GitHub-SKULLFIRE07-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3"/>
 
 </div>
 
----
+<br/>
 
+<!-- Philosophy Footer -->
 <div align="center">
 
 ## ⚡ BUILD SYSTEMS. NOT FEATURES. ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&lines=Code+→+Automate+→+Optimize+→+Scale;Architect+the+Future+with+AI;Systems+That+Think+%26+Execute;Intelligence+by+Design" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Code+%E2%86%92+Automate+%E2%86%92+Optimize+%E2%86%92+Scale;Architect+Intelligence%2C+Not+Just+Software;Systems+That+Think+%26+Execute;The+Future+is+Autonomous)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-### ⭐ From [Aryan Budukh](https://github.com/SKULLFIRE07)
+<br/>
+
+### ⭐ From [Aryan Budukh](https://github.com/SKULLFIRE07) | Building Tomorrow's Intelligence Today
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SKULLFIRE07&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer"/>
