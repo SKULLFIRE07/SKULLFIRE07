@@ -1,13 +1,13 @@
 <!-- Header with Gradient Background -->
 <div align="center">
 
-<!-- Large Static Name Display -->
+<!-- Large Static Name Display with Dark Gradient -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=120&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&fontAlignY=55" alt="ARYAN BUDUKH" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=ARYAN%20BUDUKH&fontSize=80&fontColor=00F7FF&fontAlignY=55&stroke=00FFB3&strokeWidth=2" alt="ARYAN BUDUKH" width="100%"/>
 </h1>
 
 <h3 align="center" style="color: #00F7FF; margin-top: -10px;">
-  Full Stack AI Engineer | Systems Architect | 360Labs.ai
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+AI+Engineer+%7C+Systems+Architect+%7C+360Labs.ai" alt="Title" />
 </h3>
 
 <!-- Dynamic Typing Animation -->
