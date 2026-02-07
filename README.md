@@ -322,7 +322,7 @@ mindmap
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎯 360Labs.ai - Full Stack AI Engineer
 
@@ -342,7 +342,7 @@ mindmap
 - 🔒 Maintained 99.9% uptime
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### 🌱 Continuous Growth
 
@@ -362,11 +362,26 @@ mindmap
 🎯 Real-time systems  
 🎯 Serverless architecture  
 
-**Tech Evolution:**
+</td>
+<td width="30%" valign="top">
 
-🔥 Exploring edge computing  
-🔥 Mastering distributed systems  
-🔥 Deep diving into system optimization  
+### 🔥 Tech Evolution
+
+**Mastering:**
+
+🔮 Edge computing  
+🔮 Distributed systems  
+🔮 System optimization  
+🔮 ML model deployment  
+🔮 API architecture  
+🔮 Database scaling  
+
+**Exploring:**
+
+💡 Quantum computing  
+💡 Blockchain integration  
+💡 Advanced RAG systems  
+💡 Neural architecture search  
 
 </td>
 </tr>
