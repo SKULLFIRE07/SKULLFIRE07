@@ -1,130 +1,170 @@
 <div align="center">
 
-# 🚀 Aryan Budukh
-### Full Stack AI Engineer | AI Systems Architect | Automation Builder
+# ⚡ ARYAN BUDUKH
+### 🧠 Full Stack AI Engineer • AI Systems Architect • Automation Strategist
 
-Building production-ready AI systems that automate workflows, reduce manual effort, and scale businesses.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanbudukh2710/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansbudukh@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Designing+AI-Powered+Systems;Building+Autonomous+Workflows;Scaling+Businesses+with+Automation;Full+Stack+AI+Engineering+at+360Labs.ai" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 The Mission
 
-I’m a **Full Stack AI Engineer at 360Labs.ai**, where I design and deploy end-to-end AI-powered systems for businesses.
+I don't just write code.  
+I build **intelligent systems**.
 
-My work focuses on:
+At **360Labs.ai**, I architect scalable AI infrastructures that:
 
-- 🧠 AI Architecture & LLM Integrations  
-- 🤖 AI Agents & Workflow Automation  
-- 🔥 Firebase Backend Systems (Auth, Firestore, Cloud Functions)  
-- 🌐 Full Stack Web & App Development  
-- 💳 Payment Integrations (Razorpay, Stripe)  
-- ⚡ Scalable Production Infrastructure  
+- Replace manual workflows
+- Deploy LLM-powered agents
+- Automate content & operations
+- Scale businesses with intelligent backend systems
 
-I build systems that are:
-- Secure  
-- Scalable  
-- Automated  
-- Production-ready  
+Every system I build is designed to be:
 
----
-
-## 🏢 Current Role
-
-### 🚀 Full Stack AI Engineer — 360Labs.ai
-
-At **360Labs.ai**, I:
-
-- Architect AI-powered automation systems
-- Integrate LLMs (OpenAI, Gemini, Claude) into business workflows
-- Build backend infrastructure using Firebase
-- Develop full-stack web apps with modern frontend stacks
-- Deploy scalable solutions on cloud platforms
-- Create AI-driven content & social automation systems
-- Optimize systems for performance and cost efficiency
+> ⚡ Automated  
+> 🔒 Secure  
+> 📈 Scalable  
+> 🧠 AI-Native  
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🧬 Digital DNA
+
+```python
+class AryanBudukh:
+
+    role = "Full Stack AI Engineer"
+    company = "360Labs.ai"
+    mission = "Build autonomous AI systems for real-world scale"
+
+    core_stack = [
+        "LLMs & AI Agents",
+        "Firebase Infrastructure",
+        "React Frontend Systems",
+        "Automation Pipelines",
+        "Cloud Deployments"
+    ]
+
+    philosophy = "Code → Automate → Optimize → Scale"
+```
+
+---
+
+# 🚀 What I Build
+
+## 🤖 AI Agent Systems
+Autonomous AI workflows that:
+- Think
+- Process
+- Execute
+- Deliver outcomes
+
+LLM-powered. Business-integrated. Production-ready.
+
+---
+
+## 🔥 Full Stack AI Platforms
+- React Frontend
+- Firebase Backend (Auth, Firestore, Cloud Functions)
+- Secure Role-Based Systems
+- Scalable Architecture
+
+From idea → deployment.
+
+---
+
+## 📈 AI Content Automation Engines
+- Viral content detection systems
+- AI insight generation
+- Auto-posting pipelines
+- Scheduled automation frameworks
+
+Fully autonomous content ecosystems.
+
+---
+
+## 🏗️ Backend Architecture & Cloud
+
+I design backend systems that are:
+
+- Serverless
+- Event-driven
+- Cost-optimized
+- Scalable by default
+
+Tech Focus:
+- Firebase
+- AWS / EC2
+- GCP
+- Webhooks & API Integrations
+- Razorpay / Stripe Systems
+
+---
+
+# 🛠️ Tech Arsenal
 
 ### 🧠 AI & Machine Learning
-- LLM Integrations (OpenAI, Gemini, Claude)
-- AI Agents & Autonomous Workflows
-- Prompt Engineering
-- RAG Systems
-- ML Model Deployment
-- Automation Pipelines
+`OpenAI` `Gemini` `Claude`  
+`Prompt Engineering` `RAG` `AI Agents`  
+`ML Deployment` `Automation Systems`
 
-### 🌐 Full Stack Development
-- React.js
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- REST APIs
-- Node.js (Backend Logic)
+### 🌐 Full Stack
+`React.js` `JavaScript` `Node.js`  
+`HTML5` `CSS3` `REST APIs`
 
 ### 🔥 Backend & Cloud
-- Firebase (Firestore, Auth, Cloud Functions, Storage)
-- AWS
-- Cloud Deployment (GCP / EC2)
-- Serverless Architecture
+`Firebase` `Firestore` `Cloud Functions`  
+`AWS` `GCP` `Serverless Systems`
 
-### 💳 Integrations & Systems
-- Razorpay
-- Stripe
-- Third-party API Integrations
-- Webhooks
-- Automation Tools (n8n)
+### 🔗 Automation & Integrations
+`n8n` `Webhooks` `Third-party APIs`  
+`Razorpay` `Stripe`
 
 ---
 
-## 🧩 What I Build
+# 🎯 Current Focus
 
-- 🤖 AI Content Automation Systems  
-- 📈 Viral Social Media Auto-Posting Engines  
-- 🏫 Scalable EdTech Platforms  
-- 💼 Business Workflow Automation Tools  
-- 📊 AI-Powered Dashboards  
-- 🔐 Secure Authentication & Role-Based Systems  
-- 📱 Full Stack Web Applications  
+- Building multi-agent AI ecosystems  
+- Designing AI-first SaaS infrastructure  
+- Advanced system design & backend scaling  
+- AI-driven automation products  
 
 ---
 
-## 🎯 Current Focus
+# 💼 Professional Identity
 
-- Building advanced AI Agent systems
-- Scaling AI automation for businesses
-- Deepening system design & backend architecture expertise
-- Creating AI-first SaaS products
-- Optimizing production deployments
+Full Stack AI Engineer at **360Labs.ai**  
+Specializing in:
 
----
-
-## 🤝 Open To
-
-- AI System Architecture Projects  
-- Full Stack Development Projects  
-- Automation Consulting  
-- Startup Collaborations  
-- AI SaaS Product Development  
+- End-to-end AI systems
+- Production-ready deployments
+- Business automation
+- Scalable backend infrastructure
+- AI-integrated applications
 
 ---
 
-## 📫 Let’s Build Something Powerful
+# 🤝 Let’s Collaborate
 
-If you're building something ambitious —  
-AI product, automation system, SaaS platform — let's collaborate.
+If you're building:
 
-**Email:** aryansbudukh@gmail.com  
-**LinkedIn:** linkedin.com/in/aryanbudukh2710  
+- AI Startup
+- SaaS Product
+- Automation System
+- Scalable Web Platform
+- AI Content Engine
+
+Let’s build something powerful.
+
+📩 **Email:** aryansbudukh@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/aryanbudukh2710  
 
 ---
 
 <div align="center">
 
-### ⚡ Code. Automate. Scale.
+## ⚡ BUILD SYSTEMS. NOT FEATURES.
 
 </div>
