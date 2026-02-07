@@ -1,10 +1,10 @@
 <!-- Header with Gradient Background -->
 <div align="center">
 
-<!-- Cyberpunk Style Header -->
+<!-- Cyberpunk Style Header with Name -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=25"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=25"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect%20%7C%20360Labs.ai&descAlignY=55&descAlign=50&descSize=25"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect%20%7C%20360Labs.ai&descAlignY=55&descAlign=50&descSize=25"/>
 </picture>
 
 <!-- Dynamic Typing Animation -->
@@ -50,7 +50,9 @@
 
 ## 💫 THE VISION
 
-<table>
+</div>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -96,8 +98,6 @@ console.log(aryan.mission);
 </tr>
 </table>
 
-</div>
-
 <br/>
 
 <!-- What I Build Section -->
@@ -115,11 +115,7 @@ console.log(aryan.mission);
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150"/>
 
-**Autonomous systems that:**
-- 🧠 Make decisions with LLMs
-- 🔄 Execute complex workflows
-- 📊 Process data in real-time
-- ✅ Deploy to production
+**Autonomous systems that:** 🧠 Make decisions with LLMs | 🔄 Execute complex workflows | 📊 Process data in real-time | ✅ Deploy to production
 
 `OpenAI` `Claude` `Gemini` `RAG`
 
@@ -130,11 +126,7 @@ console.log(aryan.mission);
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150"/>
 
-**End-to-end applications:**
-- ⚛️ React frontends
-- 🔥 Firebase backends
-- 🔐 Secure authentication
-- 📈 Cloud infrastructure
+**End-to-end applications:** ⚛️ React frontends | 🔥 Firebase backends | 🔐 Secure authentication | 📈 Cloud infrastructure
 
 `React` `Node.js` `Firebase` `AWS`
 
@@ -147,11 +139,7 @@ console.log(aryan.mission);
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150"/>
 
-**Intelligent workflows:**
-- 🎯 Content generation
-- 💡 Insight extraction  
-- 📅 Scheduled pipelines
-- ⏰ Event-driven systems
+**Intelligent workflows:** 🎯 Content generation | 💡 Insight extraction | 📅 Scheduled pipelines | ⏰ Event-driven systems
 
 `n8n` `Webhooks` `API Integration`
 
@@ -162,11 +150,7 @@ console.log(aryan.mission);
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150"/>
 
-**Serverless systems:**
-- 🌐 Multi-cloud architecture
-- 🔌 Microservices design
-- 💳 Payment integration
-- 📦 Container orchestration
+**Serverless systems:** 🌐 Multi-cloud architecture | 🔌 Microservices design | 💳 Payment integration | 📦 Container orchestration
 
 `AWS` `GCP` `Docker` `Serverless`
 
@@ -335,11 +319,11 @@ mindmap
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 360Labs.ai - Full Stack AI Engineer
 
-**Building the future of intelligent automation:**
+**Building the future of intelligent automation**
 
 ✅ Design & deploy multi-agent AI systems  
 ✅ Architect full-stack web applications  
@@ -355,7 +339,7 @@ mindmap
 - 🔒 Maintained 99.9% uptime
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌱 Continuous Growth
 
@@ -368,12 +352,18 @@ mindmap
 📊 Data engineering pipelines  
 🚀 DevOps & automation  
 
-**Focused On:**
+**Current Focus:**
 
 🎯 Multi-agent orchestration  
 🎯 AI-first SaaS products  
 🎯 Real-time systems  
 🎯 Serverless architecture  
+
+**Tech Evolution:**
+
+🔥 Exploring edge computing  
+🔥 Mastering distributed systems  
+🔥 Deep diving into system optimization  
 
 </td>
 </tr>
@@ -397,19 +387,19 @@ mindmap
 <td align="center" width="33%">
 <br/>
 <h3>🚀 AI Startups</h3>
-Intelligent products<br/>from concept to launch
+Intelligent products from concept to launch
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
 <h3>💼 SaaS Platforms</h3>
-Full-stack systems<br/>with AI integration
+Full-stack systems with AI integration
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
 <h3>⚡ Automation</h3>
-End-to-end workflow<br/>optimization
+End-to-end workflow optimization
 <br/><br/>
 </td>
 </tr>
@@ -417,19 +407,19 @@ End-to-end workflow<br/>optimization
 <td align="center" width="33%">
 <br/>
 <h3>🌐 Web Apps</h3>
-Scalable, modern<br/>applications
+Scalable, modern applications
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
 <h3>🤖 AI Agents</h3>
-Autonomous systems<br/>& orchestration
+Autonomous systems & orchestration
 <br/><br/>
 </td>
 <td align="center" width="33%">
 <br/>
 <h3>☁️ Infrastructure</h3>
-Cloud architecture<br/>& deployment
+Cloud architecture & deployment
 <br/><br/>
 </td>
 </tr>
@@ -464,13 +454,9 @@ Cloud architecture<br/>& deployment
   <img src="https://img.shields.io/badge/GitHub-SKULLFIRE07-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=3"/>
-
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- Philosophy Footer -->
 <div align="center">
@@ -483,17 +469,11 @@ Cloud architecture<br/>& deployment
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-<br/>
-
-### ⭐ From [Aryan Budukh](https://github.com/SKULLFIRE07) | Building Tomorrow's Intelligence Today
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SKULLFIRE07&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+**⭐ From [Aryan Budukh](https://github.com/SKULLFIRE07) | Building Tomorrow's Intelligence Today**
 
 </div>
 
+<br/>
+
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=120&section=footer"/>
