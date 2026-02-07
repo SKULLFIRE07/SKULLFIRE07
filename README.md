@@ -1,10 +1,15 @@
 <!-- Header with Gradient Background -->
 <div align="center">
 
-<!-- Cyberpunk Style Header with Name -->
+<!-- Large Name Display -->
+<h1 style="font-size: 80px; font-weight: bold; margin: 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=80&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=ARYAN+BUDUKH" alt="ARYAN BUDUKH" />
+</h1>
+
+<!-- Cyberpunk Style Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect%20%7C%20360Labs.ai&descAlignY=55&descAlign=50&descSize=25"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=300&section=header&text=ARYAN%20BUDUKH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Systems%20Architect%20%7C%20360Labs.ai&descAlignY=55&descAlign=50&descSize=25"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&fontSize=0&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=200&section=header&fontSize=0&animation=fadeIn"/>
 </picture>
 
 <!-- Dynamic Typing Animation -->
